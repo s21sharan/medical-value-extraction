@@ -69,8 +69,8 @@ python analyze_values.py --analyze_sample --use_gemini
 
 ## Example Output
 
-- **Built-in Summarizer**: "The person values benevolence and self-direction, rejecting conformity."
-- **Gemini API Summarizer**: "This person values universalism, emphasizing environmental protection and community welfare."
+- **Built-in Summarizer**: "The patient initially valued work and achievement but has shifted towards valuing health and well-being."
+- **Gemini API Summarizer**: "This patient has transitioned from prioritizing work to embracing a holistic approach to health, emphasizing the importance of balance and self-care."
 
 ## Designing a Framework for Long Conversations
 
