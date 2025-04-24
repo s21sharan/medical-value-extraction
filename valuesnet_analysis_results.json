@@ -1,0 +1,109 @@
+{
+  "values_detected": {
+    "BENEVOLENCE": 12422,
+    "CONFORMITY": 6765,
+    "SECURITY": 13622,
+    "HEDONISM": 6609,
+    "STIMULATION": 2224,
+    "UNIVERSALISM": 2405,
+    "ACHIEVEMENT": 731,
+    "TRADITION": 2449,
+    "POWER": 803,
+    "SELF-DIRECTION": 47
+  },
+  "value_stances": {
+    "BENEVOLENCE": {
+      "0": 4302,
+      "1": 1800,
+      "-1": 6320
+    },
+    "CONFORMITY": {
+      "0": 1587,
+      "1": 521,
+      "-1": 4657
+    },
+    "SECURITY": {
+      "1": 2819,
+      "-1": 6142,
+      "0": 4661
+    },
+    "HEDONISM": {
+      "-1": 2617,
+      "1": 1298,
+      "0": 2694
+    },
+    "STIMULATION": {
+      "-1": 1226,
+      "0": 697,
+      "1": 301
+    },
+    "UNIVERSALISM": {
+      "0": 730,
+      "-1": 1349,
+      "1": 326
+    },
+    "ACHIEVEMENT": {
+      "0": 248,
+      "-1": 344,
+      "1": 139
+    },
+    "TRADITION": {
+      "-1": 1569,
+      "0": 748,
+      "1": 132
+    },
+    "POWER": {
+      "1": 460,
+      "-1": 292,
+      "0": 51
+    },
+    "SELF-DIRECTION": {
+      "0": 6,
+      "-1": 23,
+      "1": 18
+    }
+  },
+  "top_values": [
+    [
+      "SECURITY",
+      13622
+    ],
+    [
+      "BENEVOLENCE",
+      12422
+    ],
+    [
+      "CONFORMITY",
+      6765
+    ],
+    [
+      "HEDONISM",
+      6609
+    ],
+    [
+      "TRADITION",
+      2449
+    ],
+    [
+      "UNIVERSALISM",
+      2405
+    ],
+    [
+      "STIMULATION",
+      2224
+    ],
+    [
+      "POWER",
+      803
+    ],
+    [
+      "ACHIEVEMENT",
+      731
+    ],
+    [
+      "SELF-DIRECTION",
+      47
+    ]
+  ],
+  "values_summary": "The person primarily rejects security and rejects benevolence."
+}
